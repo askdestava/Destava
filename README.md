@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://destava.com/logo.png" alt="Destava" width="96" />
+  <img src="mascot.png" alt="Destava" width="180" />
 </p>
 
 # Destava
