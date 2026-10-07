@@ -32,6 +32,6 @@ More on the [Destava channel](https://www.youtube.com/@GoDestava).
 
 ## File a bug
 
-Something wrong on the site? [Open a bug report](https://github.com/xprtis-dev/Destava/issues/new?template=bug_report.yml).
+Something wrong on the site? [Open a bug report](https://github.com/askdestava/Destava/issues/new?template=bug_report.yml).
 
-Those reports are tracked on the Bugs board for this repository.
+Those reports are tracked on the [Bugs board](https://github.com/users/askdestava/projects/1).
